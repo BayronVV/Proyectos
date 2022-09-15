@@ -18,6 +18,7 @@ public class Ver extends javax.swing.JFrame {
      */
     public Ver() {
         initComponents();
+        setLocationRelativeTo(null);
     }
 
     /**
